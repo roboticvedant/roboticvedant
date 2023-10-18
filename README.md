@@ -16,9 +16,10 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange)
 
 ## 🏗️ Projects
+/*
 - **Underwater Robotics**: [Repo](https://github.com/)
 - **Solar Car Racing Team**: [Repo](https://github.com/)
-
+*/
 ## 📫 How to Reach Me
 - LinkedIn: [Vedant K. Naik](https://www.linkedin.com/in/)
 - Email: [email@example.com](mailto:email@example.com)
