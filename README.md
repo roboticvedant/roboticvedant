@@ -8,8 +8,7 @@
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=roboticvedant.roboticvedant)
-
-
+---
 ## 📚 About Me
 - 🎓 Electrical Engineering student at Michigan State University
 - 🔍 Focusing on embedded systems, control theory, and power electronics
