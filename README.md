@@ -6,6 +6,10 @@
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Verilog](https://img.shields.io/badge/-Verilog-6e5a8f?style=flat-square&logo=verilog)
 
+---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=roboticvedant.roboticvedant)
+
+
 ## 📚 About Me
 - 🎓 Electrical Engineering student at Michigan State University
 - 🔍 Focusing on embedded systems, control theory, and power electronics
