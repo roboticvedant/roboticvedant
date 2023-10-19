@@ -36,9 +36,6 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
-### Other Tools
-![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl)
-![OpenCL](https://img.shields.io/badge/-OpenCL-5586A4?style=flat-square&logo=opencl)
 
 
 ## 📫 How to Reach Me
