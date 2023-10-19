@@ -21,5 +21,5 @@
 - **Solar Car Racing Team**: [Repo](https://github.com/)
 */
 ## 📫 How to Reach Me
-- LinkedIn: [Vedant K. Naik](https://www.linkedin.com/in/)
-- Email: [email@example.com](mailto:email@example.com)
+- LinkedIn: [Vedant K. Naik](https://www.linkedin.com/in/vedantknaik)
+- Email: [vnaik792014@gmail.com](mailto:vnaik792014@gmail.com)
