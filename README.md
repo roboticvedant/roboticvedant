@@ -7,7 +7,7 @@
 ![Verilog](https://img.shields.io/badge/-Verilog-6e5a8f?style=flat-square&logo=verilog)
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=roboticvedant.roboticvedant)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froboticvedant%2F&labelColor=%23697689&countColor=%232ccce4&style=plastic)
 ---
 ## 📚 About Me
 - 🎓 Electrical Engineering student at Michigan State University
