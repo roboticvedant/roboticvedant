@@ -1,5 +1,5 @@
 # Hello, I'm Vedant K. Naik 👋
-🎓 Electrical Engineering student focusing on embedded systems, control theory, and power electronics.
+🎓Electrical Engineering student focusing on embedded systems, control theory, and power electronics; experienced with soft robotics and developing physics-informed ANNs for predictive maintenance and system debugging. 
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
