@@ -1,46 +1,62 @@
-# Hello, I'm Vedant K. Naik 👋
-🎓Electrical Engineering student focusing on embedded systems, control theory, and power electronics; experienced with soft robotics and developing physics-informed ANNs for predictive maintenance and system debugging. 
+<div align="center">
+  <h1>Hello, I'm Vedant K. Naik 👋</h1>
+</div>
+<p align="center">
+  <p align="right">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froboticvedant%2F&labelColor=%23697689&countColor=%232ccce4&style=plastic" alt="Visitors" />
+</p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Electrical+Engineering+Student;Embedded+Systems+Enthusiast;Robotics+and+AI+Developer;Firmware+Developer" alt="Typing SVG" />
+</p>
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
-![Verilog](https://img.shields.io/badge/-Verilog-6e5a8f?style=flat-square&logo=verilog)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roboticvedant&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+## 📫 Reach Out
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedantknaik">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vnaik792014@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Froboticvedant%2F&labelColor=%23697689&countColor=%232ccce4&style=plastic)
----
+
 ## 📚 About Me
 - 🎓 Electrical Engineering student at Michigan State University
 - 🔍 Focusing on embedded systems, control theory, and power electronics
 - 🏅 Dean's List, Walter R. Yates Memorial Scholarship, International Tuition Grant, Silver Award- Dean's Showcase of Stars 2024 (College Of Engineering, MSU)
 
+---
+
 ## 🛠 Technologies & Tools
 
-### Hardware & Embedded Systems
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-6e5a8f?style=flat-square&logo=altium-designer)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino)
-![TI Microcontroller](https://img.shields.io/badge/-TI%20Microcontroller-blue?style=flat-square&logo=texas-instruments)
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Languages" />
+</p>
 
-### Simulation & Modelling
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
-![Simulink](https://img.shields.io/badge/-Simulink-orange?style=flat-square&logo=simulink)
+### Robotics-Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,ros,opencv,tensorflow" alt="Robotics tools" />
+</p>
 
 ### Version Control & Development Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Version Control & Development Tools" />
+  <img src="https://skillicons.dev/icons?i=gitlab,docker" alt="CI/CD & Docker" />
+</p>
 
-### CAD & Prototyping
-![Fusion 360](https://img.shields.io/badge/-Fusion%20360-orange?style=flat-square&logo=autodesk)
-![IoT Prototyping](https://img.shields.io/badge/-IoT%20Prototyping-blue?style=flat-square&logo=internet-of-things)
-
-### Robotics & AI
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-
+### Other Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog%20HDL-%FF236347?style=flat-square" alt="Verilog HDL" />
+  <img src="https://img.shields.io/badge/Xilinx%20SDK-%23FF6347?style=flat-square" alt="Xilinx SDK" />
+  <img src="https://img.shields.io/badge/Ixia%20Keysight%20Network%20Testing-0073CF?style=flat-square" alt="Ixia Keysight Network Testing" />
+  <img src="https://img.shields.io/badge/Fusion%20360-%2323FF47?style=flat-square" alt="Fusion 360" />
+</p>
 
 
-## 📫 How to Reach Me
-- LinkedIn: [Vedant K. Naik](https://www.linkedin.com/in/vedantknaik)
-- Email: [vnaik792014@gmail.com](mailto:vnaik792014@gmail.com)
+
+
