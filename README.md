@@ -28,6 +28,7 @@
 - 🎓 Electrical Engineering student at Michigan State University
 - 🔍 Focusing on embedded systems, control theory, and power electronics
 - 🏅 Dean's List, Walter R. Yates Memorial Scholarship, International Tuition Grant, Silver Award- Dean's Showcase of Stars 2024 (College Of Engineering, MSU)
+- Electric Drive Systems Lead at MSU SRT [motor-control-fw](https://github.com/MSU-Solar/motor_controller_schip)
 
 ---
 
