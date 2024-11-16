@@ -9,7 +9,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roboticvedant&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak Stats" />
+ 
+  ![Vedant's Github Stats](https://github-readme-stats.vercel.app/api?username=roboticvedant&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roboticvedant&theme=dark&count_private=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=roboticvedant&theme=onestar&no-frame=true&column=3&row=2&)
+
 </div>
 
 ## 📫 Reach Out
